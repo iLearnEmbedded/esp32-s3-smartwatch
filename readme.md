@@ -13,6 +13,7 @@ Requires v5.4.2 and not v6.xx because of waveshare examples limitation.
 `. ./export.sh`
 
 `echo '~/esp32_projects/esp-idf-5.4.2/export.sh' >> ~/.bashrc`
+
 `source ~/.bashrc`
 
 `idf.py build`
